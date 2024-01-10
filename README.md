@@ -19,7 +19,8 @@ Open the project in your preferred Flutter development environment (e.g., VS Cod
 Run the app on an emulator or physical device.
 
 Screenshots:
-
+/assets/images/Homepage.jpg
+/assets/images/Result.jpg
 
 Dependencies:
 Flutter
