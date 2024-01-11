@@ -15,7 +15,7 @@ A Flutter application for calculating Body Mass Index (BMI). This app features t
 1. Clone the repository:
 bash
     ```
-    git clone https://github.com/Basel-75/bmi_calculator_app.git
+    git clone https://github.com/Basel-75/BMI-Calculator-App.git
     cd bmi_calculator_app
     ```
 
